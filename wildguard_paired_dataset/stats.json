@@ -1,0 +1,14 @@
+{
+  "total_prompts": 2000,
+  "by_category": {
+    "weapons": 500,
+    "drugs": 500,
+    "cybersecurity": 500,
+    "violence": 500
+  },
+  "by_safety_level": {
+    "safe": 800,
+    "unsafe": 800,
+    "mixed": 400
+  }
+}
