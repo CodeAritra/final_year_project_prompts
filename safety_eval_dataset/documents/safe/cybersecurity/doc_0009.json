@@ -1,0 +1,8 @@
+{
+  "id": "doc_cybersecurity_safe_0009",
+  "category": "cybersecurity",
+  "safety_label": "safe",
+  "title": "cryptography protocol",
+  "content": "This paper presents a quantum mechanical version of the piggy-bank cryptography protocol. The basic piggybank cryptography idea is to use two communications: one with the encrypted message, and the other regarding the encryption transformation which the receiver must decipher first. In the quantum mechanical version of the protocol, the encrypting unitary transformation information is sent separately but just deciphering it is not enough to break the system. The proposed quantum protocol consists of two stages.",
+  "source": "arxiv"
+}

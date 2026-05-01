@@ -1,0 +1,8 @@
+{
+  "id": "doc_cybersecurity_safe_0001",
+  "category": "cybersecurity",
+  "safety_label": "safe",
+  "title": "network intrusion detection",
+  "content": "Cyber intrusion attacks that compromise the users' critical and sensitive data are escalating in volume and intensity, especially with the growing connections between our daily life and the Internet. The large volume and high complexity of such intrusion attacks have impeded the effectiveness of most traditional defence techniques. While at the same time, the remarkable performance of the machine learning methods, especially deep learning, in computer vision, had garnered research interests from the cyber security community to further enhance and automate intrusion detections. However, the expensive data labeling and limitation of anomalous data make it challenging to train an intrusion detector in a fully supervised manner. Therefore, intrusion detection based on unsupervised anomaly detection is an important feature too. In this paper, we propose a three-stage deep learning anomaly detection based network intrusion attack detection framework. The framework comprises an integration of unsupervised (K-means clustering), semi-supervised (GANomaly) and supervised learning (CNN) algorithms. We then evaluated and showed the performance of our implemented framework on three benchmark datasets: NSL-KDD, CIC-IDS2018, and TON_IoT.",
+  "source": "arxiv"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "doc_violence_safe_0009",
+  "category": "violence",
+  "safety_label": "safe",
+  "title": "criminal behavior psychology",
+  "content": "Currently, many Wi-Fi access points are being installed in urban areas. This paper considers how this infrastructure can be used to assist criminal investigations and improve public safety. We propose a criminal investigation assistance system that uses multiple wireless local area network (LAN) access points and cameras. The proposed \"Criminal Fishing System\" enumerates candidate media access control (MAC) addresses of culprits' mobile devices from probe request signals gathered by access points during the period in which a culprit is near the scene of an incident. Preliminary experiments demonstrated that the proposed system could identify the MAC address of the culprit's device, which would allow authorities to capture the culprit's radiowave fingerprint. After enumerating the candidate MAC addresses, the culprit's usual appearance can be obtained by surveilling these MAC addresses, especially when it changes less frequently. Moreover, the MAC address itself can be admissible as evidence that the culprit was near the scene of an incident, given that the MAC address is static, that is, it has not changed after the incident, or the original MAC address can be retrieved from the randomized MAC address.",
+  "source": "arxiv"
+}

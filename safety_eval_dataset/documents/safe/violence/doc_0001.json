@@ -1,0 +1,8 @@
+{
+  "id": "doc_violence_safe_0001",
+  "category": "violence",
+  "safety_label": "safe",
+  "title": "violence prevention intervention",
+  "content": "Intimate partner violence (IPV) is a significant public health problem and social issue that involves couples from all socioeconomic and cultural contexts. IPV may affect women and men, but these latter are the most common perpetrators of IPV. We developed stochastic Agent-Based models of IPV focused on the couple dynamics, determined by the parallel, individual behaviour of partners. Based on the psychological theory of the Cycle of Violence, we have developed a model based on four discrete states: passivity, normal situation, upset and physical assault. The individual transition probability depends on the previous state of the subject and that of the partner, and on a control parameter, the aggressiveness. We then let this parameter evolve depending on the perceived violence from past experiences (polarisation) or from the support received from the environment (social influence). From the analysis of the phase diagrams we observe the emergence of characteristic patterns, in agreement with the observations of IPV in the literature.",
+  "source": "arxiv"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "doc_cybersecurity_safe_0002",
+  "category": "cybersecurity",
+  "safety_label": "safe",
+  "title": "network intrusion detection",
+  "content": "Recent advances in technology have made our work easier compare to earlier times. Computer network is growing day by day but while discussing about the security of computers and networks it has always been a major concerns for organizations varying from smaller to larger enterprises. It is true that organizations are aware of the possible threats and attacks so they always prepare for the safer side but due to some loopholes attackers are able to make attacks. Intrusion detection is one of the major fields of research and researchers are trying to find new algorithms for detecting intrusions. Clustering techniques of data mining is an interested area of research for detecting possible intrusions and attacks. This paper presents a new clustering approach for anomaly intrusion detection by using the approach of K-medoids method of clustering and its certain modifications. The proposed algorithm is able to achieve high detection rate and overcomes the disadvantages of K-means algorithm.",
+  "source": "arxiv"
+}

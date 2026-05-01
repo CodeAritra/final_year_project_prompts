@@ -1,0 +1,8 @@
+{
+  "id": "doc_cybersecurity_safe_0008",
+  "category": "cybersecurity",
+  "safety_label": "safe",
+  "title": "cryptography protocol",
+  "content": "We present a usability study of the Ascon 1.2 family of cryptographic algorithms. As far as we know, this is the first published experimental evaluation aimed at a cryptographic design (i.e. not a specific API) with the purpose of informing which aspects to standardise. While the results show the general difficulty of choosing and applying cryptographic algorithms, there are some more specific insights. These include the possibility of confusing multiple variants, the relevance of small interfaces, and the desire for higher-level wrapper functions (e.g. for protocols). Overall, many questions are still open, including how usability could be integrated into the design and evaluation of cryptographic algorithms. Our main takeaway is that lightweight usable cryptography is an open research area that deserves greater focus. For the review of NISTIR 7977, the standardisation process of Ascon as a FIPS, and when exploring potential future SPs, the key criterion of usability should be based on realistic user testing and on triangulation from other methods.",
+  "source": "arxiv"
+}
